@@ -1,0 +1,11 @@
+{
+    "fullname": "Demo Patient",
+    "email": "patient@example.invalid",
+    "password": "",
+    "notifications": {
+        "appointment": true,
+        "payment": true
+    },
+    "twoFactor": false,
+    "language": "en"
+}

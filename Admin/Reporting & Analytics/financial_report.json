@@ -1,0 +1,18 @@
+{
+    "revenue": {
+        "labels": ["Cleaning", "Fillings", "Root Canal"],
+        "datasets": [{
+            "label": "Revenue",
+            "data": [6500, 12000, 8500],
+            "backgroundColor": ["#4CAF50", "#2196F3", "#FFC107"]
+        }]
+    },
+    "performance": {
+        "labels": ["Dentist 1", "Dentist 2", "Dentist 3"],
+        "datasets": [{
+            "label": "Patients/Hour",
+            "data": [3.2, 2.8, 3.5],
+            "borderColor": "#4CAF50"
+        }]
+    }
+}

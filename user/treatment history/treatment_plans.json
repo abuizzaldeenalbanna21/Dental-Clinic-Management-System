@@ -1,0 +1,14 @@
+[
+    {
+        "title_en": "Orthodontic Treatment",
+        "title_ar": "علاج تقويم الأسنان",
+        "status_en": "In Progress",
+        "status_ar": "قيد التنفيذ",
+        "status_color": "warning",
+        "progress": 45,
+        "steps": [
+            {"name_en": "Initial Alignment", "name_ar": "المحاذاة الأولية", "completed": true},
+            {"name_en": "Space Closure", "name_ar": "إغلاق الفراغات", "completed": false}
+        ]
+    }
+]

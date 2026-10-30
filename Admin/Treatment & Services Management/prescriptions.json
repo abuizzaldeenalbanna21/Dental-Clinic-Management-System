@@ -1,0 +1,10 @@
+[
+    {
+        "id": "rx-001",
+        "name_en": "Amoxicillin",
+        "name_ar": "أموكسيسيلين",
+        "details_en": "Antibiotic for dental infections",
+        "details_ar": "مضاد حيوي لالتهابات الأسنان",
+        "dosage": "500mg TID for 7 days"
+    }
+]

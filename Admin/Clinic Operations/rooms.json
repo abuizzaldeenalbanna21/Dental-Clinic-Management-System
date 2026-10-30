@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Operatory 1",
+        "last_sterilized": "2023-08-15T09:30:00",
+        "status": "due",
+        "equipment": "Chair A",
+        "downtime_start": "2023-08-15T10:00:00"
+    }
+]

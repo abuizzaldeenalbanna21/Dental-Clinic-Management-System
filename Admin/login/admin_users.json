@@ -1,0 +1,10 @@
+[
+    {
+        "id": "demo-dentist",
+        "name": "Demo Dentist",
+        "email": "dentist@example.invalid",
+        "password_hash": "",
+        "role": "dentist",
+        "phone": "0000000000"
+    }
+]

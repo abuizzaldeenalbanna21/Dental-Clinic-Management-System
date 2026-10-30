@@ -1,0 +1,12 @@
+[
+    {
+        "id": "5f9d1a2b",
+        "patient_id": "demo-patient",
+        "date": "2023-12-15",
+        "time": "14:30",
+        "dentist": "Demo Dentist",
+        "reason": "Dental Checkup",
+        "status": "Scheduled",
+        "history": []
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "receptionist": {
+        "view_appointments": true,
+        "edit_records": false
+    },
+    "dentist": {
+        "view_appointments": true,
+        "edit_records": true
+    }
+}

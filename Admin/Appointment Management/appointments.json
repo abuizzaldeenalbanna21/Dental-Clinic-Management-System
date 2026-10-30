@@ -1,0 +1,11 @@
+[
+    {
+        "id": "apt-123",
+        "title": "Demo Patient - Cleaning",
+        "start": "2023-12-15T09:00:00",
+        "color": "#ff0000",
+        "dentist": "Demo Dentist",
+        "room": "Room 1",
+        "status": "confirmed"
+    }
+]

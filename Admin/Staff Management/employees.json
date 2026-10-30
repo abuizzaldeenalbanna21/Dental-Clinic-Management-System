@@ -1,0 +1,10 @@
+[
+    {
+        "id": "emp-demo",
+        "name": "Demo Dentist",
+        "role": "Dentist",
+        "license_expiry": "2030-06-30",
+        "shifts": ["Mon-AM", "Wed-PM"],
+        "overtime": 4.5
+    }
+]

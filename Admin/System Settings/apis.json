@@ -1,0 +1,14 @@
+[
+    {
+        "name_en": "Lab System",
+        "name_ar": "نظام المختبر",
+        "status": "connected",
+        "last_sync": "2023-08-15T14:30:00"
+    },
+    {
+        "name_en": "QuickBooks",
+        "name_ar": "كويك بوكس",
+        "status": "disconnected",
+        "last_sync": null
+    }
+]

@@ -1,0 +1,32 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies and generated files
+/vendor/
+/node_modules/
+/.dist/
+/Dental-Clinic-Management-System/
+*.log
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local application data and uploaded patient files
+**/users.json
+**/patients.json
+**/profiles/
+**/uploads/
+**/secure_documents/
+**/messages.json
+**/activity_logs.json
+**/sessions/
+*.sqlite
+*.sqlite3
+*.db

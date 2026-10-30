@@ -1,0 +1,10 @@
+[
+    {
+        "id": "proc-001",
+        "name_en": "Dental Cleaning",
+        "name_ar": "تنظيف الأسنان",
+        "price_standard": 300,
+        "price_premium": 450,
+        "insurance": ["Company A", "Company B"]
+    }
+]

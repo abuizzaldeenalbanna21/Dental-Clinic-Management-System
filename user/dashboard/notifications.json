@@ -1,0 +1,20 @@
+[
+    {
+        "icon": "fas fa-tooth text-primary",
+        "text_en": "Dental cleaning reminder",
+        "text_ar": "تذكير بتنظيف الأسنان",
+        "date": "2023-08-15"
+    },
+    {
+        "icon": "fas fa-calendar-check text-success",
+        "text_en": "Appointment confirmed",
+        "text_ar": "تم تأكيد الموعد",
+        "date": "2023-08-10"
+    },
+    {
+        "icon": "fas fa-exclamation-triangle text-warning",
+        "text_en": "Payment due in 3 days",
+        "text_ar": "الدفع مستحق خلال 3 أيام",
+        "date": "2023-08-05"
+    }
+]

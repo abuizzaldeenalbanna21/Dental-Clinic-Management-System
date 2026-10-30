@@ -1,0 +1,18 @@
+{
+    "id": "demo-patient",
+    "name": "Demo Patient",
+    "contact": {
+        "phone": "0000000000",
+        "email": "patient@example.invalid",
+        "emergency_contact": "0000000000"
+    },
+    "medical": {
+        "allergies": [],
+        "conditions": [],
+        "dental_history": []
+    },
+    "consents": {
+        "signed_forms": [],
+        "last_signature": null
+    }
+}

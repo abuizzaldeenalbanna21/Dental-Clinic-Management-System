@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title_en": "Full Mouth X-Ray",
+        "title_ar": "أشعة كاملة للأسنان",
+        "category": "xray",
+        "category_en": "X-Ray",
+        "category_ar": "أشعة",
+        "date": "2023-08-01",
+        "file": "documents/xray-123.pdf",
+        "thumbnail": "thumbnails/xray-thumb.jpg",
+        "type": "pdf"
+    },
+    {
+        "id": "2",
+        "title_en": "Treatment Plan Consent",
+        "title_ar": "موافقة خطة العلاج",
+        "category": "consent",
+        "category_en": "Consent Form",
+        "category_ar": "نموذج موافقة",
+        "date": "2023-07-15",
+        "file": "documents/consent-456.pdf",
+        "thumbnail": "thumbnails/consent-thumb.jpg",
+        "type": "pdf"
+    }
+]

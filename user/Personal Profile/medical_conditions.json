@@ -1,0 +1,17 @@
+[
+    {
+        "id": "diabetes",
+        "name_en": "Diabetes",
+        "name_ar": "مرض السكري"
+    },
+    {
+        "id": "hypertension",
+        "name_en": "Hypertension",
+        "name_ar": "ارتفاع ضغط الدم"
+    },
+    {
+        "id": "asthma",
+        "name_en": "Asthma",
+        "name_ar": "الربو"
+    }
+]
